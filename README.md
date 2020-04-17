@@ -1,3 +1,3 @@
-# my-website
+# website
 # some changes
 Add nsome more
