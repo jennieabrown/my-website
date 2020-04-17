@@ -1,2 +1,2 @@
 ## website
-Fixed typo --here--
+Fixed typo somewhere changed
